@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exam Solutions on MIT OpenCourseWare</title>
+    <link>/resources/exam-solutions/</link>
+    <description>Recent content in Exam Solutions on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exam-solutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT9_00SCF11_exam1_2009sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam1_2009sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam1_2009sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to 2009 practice exam 1 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam1_2010sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam1_2010sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam1_2010sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to 2010 practice exam 1 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam1_sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam1_sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to exam 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam2_2009sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam2_2009sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam2_2009sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to 2009 practice exam 2 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam2_2010sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam2_2010sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam2_2010sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to 2010 practice exam 2 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam2_sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam2_sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to exam 1 problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam3_2009sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam3_2009sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam3_2009sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to 2009 practice exam 3 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam3_2010sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam3_2010sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam3_2010sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to 2010 practice exam 3 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT9_00SCF11_exam3_sol.pdf</title>
+      <link>/resources/mit9_00scf11_exam3_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit9_00scf11_exam3_sol/data.json</guid>
+      <description>&lt;p&gt;This resource contains solution to the problem set related to the final exam.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

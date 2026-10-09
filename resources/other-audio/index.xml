@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other Audio on MIT OpenCourseWare</title>
+    <link>/resources/other-audio/</link>
+    <description>Recent content in Other Audio on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/other-audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lang_disc.mp3</title>
+      <link>/resources/lang_disc/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lang_disc/data.json</guid>
+      <description>&lt;p&gt;This resource is a MP3 file for language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>memory_disc_1.mp3</title>
+      <link>/resources/memory_disc_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/memory_disc_1/data.json</guid>
+      <description>&lt;p&gt;This resource is a MP3 file for memory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>memory_disc_2.mp3</title>
+      <link>/resources/memory_disc_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/memory_disc_2/data.json</guid>
+      <description>&lt;p&gt;This resource is a MP3 file for memory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>thinking_disc_1.mp3</title>
+      <link>/resources/thinking_disc_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/thinking_disc_1/data.json</guid>
+      <description>&lt;p&gt;This is a MP3 file for thinking and intelligence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>thinking_disc_2.mp3</title>
+      <link>/resources/thinking_disc_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/thinking_disc_2/data.json</guid>
+      <description>&lt;p&gt;This is a MP3 file for thinking and intelligence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

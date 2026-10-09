@@ -1,0 +1,89 @@
+{
+  "course_description": "This course is a survey of the scientific study of human nature, including how the mind works, and how the brain supports the mind. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. Students will consider how such knowledge relates to debates about nature and nurture, free will, consciousness, human differences, self, and society.\n\nCourse Format\n\nThis course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n- A full set of **Lecture Videos** by Prof. John Gabrieli.\n- **Reading Assignments** in several books, including one **free online textbook** and detailed notes on another book.\n- Assorted multiple choice and short answer questions to **Check Yourself** on the material in each session.\n- Supporting **Discussion** content that elaborates on the lectures and reading.\n- A rich collection of online resources for **Further Study** on each session's topics.\n- A full set of **Exams** with solution keys, and extra practice questions for review.",
+  "course_description_html": "<p>This course is a survey of the scientific study of human nature, including how the mind works, and how the brain supports the mind. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. Students will consider how such knowledge relates to debates about nature and nurture, free will, consciousness, human differences, self, and society.</p>\n<p>Course Format</p>\n<p>This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:</p>\n<ul>\n<li>A full set of <strong>Lecture Videos</strong> by Prof. John Gabrieli.</li>\n<li><strong>Reading Assignments</strong> in several books, including one <strong>free online textbook</strong> and detailed notes on another book.</li>\n<li>Assorted multiple choice and short answer questions to <strong>Check Yourself</strong> on the material in each session.</li>\n<li>Supporting <strong>Discussion</strong> content that elaborates on the lectures and reading.</li>\n<li>A rich collection of online resources for <strong>Further Study</strong> on each session&rsquo;s topics.</li>\n<li>A full set of <strong>Exams</strong> with solution keys, and extra practice questions for review.</li>\n</ul>\n",
+  "course_image": {
+    "content": "5e3bbd1d-ef95-cb7f-e71f-0f47db3bc5fb",
+    "website": "9-00sc-introduction-to-psychology-fall-2011"
+  },
+  "course_image_metadata": {
+    "content_type": "resource",
+    "description": "Prof. Gabrieli's neuroscience lab uses tools like this fMRI scanner to study how the brain makes the mind. Photo by MIT OpenCourseWare.",
+    "draft": false,
+    "file": "/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg",
+    "file_size": 50041,
+    "file_type": "image/jpeg",
+    "image_metadata": {
+      "caption": "Prof. Gabrieli's neuroscience lab uses tools like this fMRI scanner to study how the brain makes the mind. (Photo by MIT OpenCourseWare.)",
+      "credit": "Photo by MIT OpenCourseWare.",
+      "image-alt": "Photo of Professor Gabrieli sitting next to a computer display of human brain images, with fMRI scanner in the background."
+    },
+    "iscjklanguage": false,
+    "learning_resource_types": [],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "ocw_type": "OCWImage",
+    "resourcetype": "Image",
+    "title": "9-00scf11.jpg",
+    "uid": "5e3bbd1d-ef95-cb7f-e71f-0f47db3bc5fb"
+  },
+  "course_image_thumbnail": {
+    "content": "fdf22e2a-12ab-95c6-8531-45a0c1c61da0",
+    "website": "9-00sc-introduction-to-psychology-fall-2011"
+  },
+  "course_title": "Introduction to Psychology",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "hide_download": false,
+  "image_src": "./static_resources/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg",
+  "instructors": [
+    {
+      "first_name": "John",
+      "last_name": "Gabrieli",
+      "middle_initial": "D. E.",
+      "salutation": "Prof.",
+      "title": "Prof. John D. E. Gabrieli",
+      "uid": "c1790b5a-b367-8e57-042a-49a3645ef029",
+      "url": "https://ocw.mit.edu/search/?q=Prof.+John+D.+E.+Gabrieli"
+    }
+  ],
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Instructor Insights",
+    "Exams",
+    "Exam Solutions",
+    "Open Textbooks"
+  ],
+  "legacy_uid": "4f29cda2-8d24-5c8b-6b84-17cfe8ab3998",
+  "level": [
+    "Undergraduate"
+  ],
+  "mit_learn_topics": [
+    [
+      "Science & Math",
+      "Cognitive Science"
+    ],
+    [
+      "Social Sciences",
+      "Psychology"
+    ]
+  ],
+  "primary_course_number": "9.00SC",
+  "site_short_id": "9.00sc-fall-2011",
+  "site_uid": "0a8250a0-2f24-45cd-a05c-0be66c978924",
+  "site_url_path": "courses/9-00sc-introduction-to-psychology-fall-2011",
+  "term": "Fall",
+  "title": "Course Metadata",
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "year": "2011"
+}
